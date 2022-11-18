@@ -10,6 +10,7 @@
     <td>Professor</td>
   </tr>
   <tr>
+<<<<<<< HEAD
     <td>João Bosco Jr</td>
     <td>analista de software jr</td>
   </tr>
@@ -24,5 +25,9 @@
   <tr>
     <td>Adelino Lourenço</td>
     <td>Analista de Software</td>
+  </tr>
+ <tr>
+    <td>Felipe Libório</td>
+    <td>Desenvolvedor</td>
   </tr>
 </table>
