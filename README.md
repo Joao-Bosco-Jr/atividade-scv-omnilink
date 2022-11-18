@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-     <th>Nome</th>
+    <th>Nome</th>
     <th>Fun&ccedil;&atilde;o na Omnilink Tecnologia</th>
   </tr>
   <tr>
