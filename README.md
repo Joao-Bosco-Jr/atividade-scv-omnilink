@@ -17,4 +17,8 @@
     <td>Danillo Bion</td>
     <td>Desenvolvedor Front-end</td>
   </tr>
+  <tr>
+    <td>Gilson Moraes</td>
+    <td>Designer UX UI</td>
+  </tr>
 </table>
