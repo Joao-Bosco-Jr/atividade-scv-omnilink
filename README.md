@@ -21,4 +21,8 @@
     <td>Gilson Moraes</td>
     <td>Designer UX UI</td>
   </tr>
+  <tr>
+    <td>Adelino Lourenço</td>
+    <td>Analista de Software</td>
+  </tr>
 </table>
