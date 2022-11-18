@@ -10,7 +10,6 @@
     <td>Professor</td>
   </tr>
   <tr>
-<<<<<<< HEAD
     <td>João Bosco Jr</td>
     <td>analista de software jr</td>
   </tr>
