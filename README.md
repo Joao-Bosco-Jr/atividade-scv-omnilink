@@ -13,4 +13,8 @@
     <td>João Bosco Jr</td>
     <td>analista de software jr</td>
   </tr>
+  <tr>
+    <td>Danillo Bion</td>
+    <td>Desenvolvedor Front-end</td>
+  </tr>
 </table>
